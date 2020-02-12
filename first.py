@@ -1,4 +1,2 @@
-devops 
-we are develope
 
-r
+print("DevOps")
